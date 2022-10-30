@@ -1,1 +1,0 @@
-# Kodluyoruz Ilk Repo
